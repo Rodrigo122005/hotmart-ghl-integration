@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/webhook-hotmart.js": {
+      "maxDuration": 30
+    }
+  }
+}
